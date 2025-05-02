@@ -20,3 +20,6 @@
 </div></br>
 
 #### Atualmente estou fazendo curso técnico de informática na ETEC Aristotéles Ferreira e pretendo ser um dev futuramente
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateussilva201&langs_count=8)
