@@ -1,5 +1,5 @@
 ## Olá! eu sou o Mateus Silva 👋
-<img align= center alt= "decorate" src="![image](https://github.com/user-attachments/assets/68079610-19e0-4d76-8d2b-dd80162e2e1f)
+<img align= center alt= "decorate" src="https://i.redd.it/was-obito-an-incel-v0-0yk7l7fo9rra1.jpg?width=1283&format=pjpg&auto=webp&s=adce374c57efafa913ea19a74d2e295c235b6945
 ">
 
 
