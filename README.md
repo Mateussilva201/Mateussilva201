@@ -6,7 +6,7 @@
 ![mateussilva201 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateussilva201&show_icons=true&theme=radical)
 
 
-### TECNOLOGIAS USADAS NO DIA A DIA
+## TECNOLOGIAS USADAS NO DIA A DIA
 <div style="display: inline_block"><br/>
 
 <img align= center alt= "MYSQL" src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png" width= 90px>
