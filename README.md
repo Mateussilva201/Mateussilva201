@@ -40,10 +40,8 @@ Desenvolvo sistemas de ponta a ponta focados em eficiência e escalabilidade:
 
 ---
 
-## 📬 Contato
 
-* **WhatsApp:** [Mateus Silva](13 99133-2354)
-* **E-mail:** Em manutenção...
+
 
 
 
