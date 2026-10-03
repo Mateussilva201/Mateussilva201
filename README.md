@@ -1,6 +1,5 @@
-# Olá, eu sou um Desenvolvedor & Especialista em IA 
 
-Atuo na criação de soluções inteligentes e personalizadas que resolvem problemas reais e otimizam demandas de negócios. Utilizo um ecossistema completo de desenvolvimento, que une o poder das linguagens tradicionais, arquiteturas modernas de web e automações avançadas potencializadas por Inteligência Artificial.
+# Atuo na criação de soluções inteligentes e personalizadas que resolvem problemas reais e otimizam demandas de negócios. Utilizo um ecossistema completo de desenvolvimento, que une o poder das linguagens tradicionais, arquiteturas modernas de web e automações avançadas potencializadas por Inteligência Artificial.
 
 ---
 
@@ -31,13 +30,6 @@ Desenvolvo sistemas de ponta a ponta focados em eficiência e escalabilidade:
 
 ---
 
-## 🎓 Formação Acadêmica
-
-* **Graduação:** Bacharelado em Inteligência Artificial — UNIVESP (Cursando)
-* **Técnico:** Análise e Desenvolvimento de Sistemas — SENAC SP
-* **Técnico:** Técnico em Informática — ETEC Aristóteles Ferreira
-
----
 
 
 
