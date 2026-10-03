@@ -8,7 +8,6 @@ Atuo na criação de soluções inteligentes e personalizadas que resolvem probl
 
 ### Back-End & Bancos de Dados
 * **C#** 
-* **Node.js**
 * **Python**
 * **MySQL**
 
