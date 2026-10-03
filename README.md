@@ -31,6 +31,7 @@ Desenvolvo sistemas de ponta a ponta focados em eficiência e escalabilidade:
 ---
 
 
+![Top Languages](https://ghstats.dev/api/langs?username=octocat&theme=midnight&max_langs=12)
 
 
 
