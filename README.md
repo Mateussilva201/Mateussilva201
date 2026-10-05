@@ -31,7 +31,8 @@ Desenvolvo sistemas de ponta a ponta focados em eficiência e escalabilidade:
 ---
 
 
-![Top Languages](https://ghstats.dev/api/langs?username=octocat&theme=midnight&max_langs=12)
+![Top Languages](https://ghstats.dev/api/langs?username=Mateussilva201&theme=midnight&hide_title=true&max_langs=12&layout=donut_vertical)
+
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=Mateussilva201&theme=midnight&border_radius=48)
 
