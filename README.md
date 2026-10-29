@@ -3,7 +3,7 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 ### Back-End & Bancos de Dados
 * **C#** 
