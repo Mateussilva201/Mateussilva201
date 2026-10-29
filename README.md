@@ -33,9 +33,12 @@ Desenvolvo sistemas de ponta a ponta focados em eficiência e escalabilidade:
 
 
 
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Logo_of_YouTube_%282013-2015%29.svg/3840px-Logo_of_YouTube_%282013-2015%29.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail)" width="300">
+<a href="## https://youtube.com/@tzwre?si=QtVXSUjcq5WKUKul">
+  <img src="[LINK_DA_SUA_IMAGEM](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Logo_of_YouTube_%282013-2015%29.svg/3840px-Logo_of_YouTube_%282013-2015%29.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" width="500">
+</a>****
 
-## ![Clique aqui]https://youtube.com/@tzwre?si=QtVXSUjcq5WKUKul
+
+
 
 
 
