@@ -15,13 +15,8 @@
 * **React**
 * **HTML & CSS**
 
-### Automação & IA
-* **n8n:** Desenvolvimento de fluxos de trabalho e automações integradas.
-* **Inteligência Artificial:** Engenharia de prompt, integração de LLMs e criação de agentes autônomos orientados a negócios.
 
----
-
-## 🚀 Soluções para o seu Negócio
+##  Soluções para o seu Negócio
 
 Desenvolvo sistemas de ponta a ponta focados em eficiência e escalabilidade:
 * **Automação de Processos:** Redução de tarefas repetitivas integrando sistemas via n8n e scripts em Python/Node.js.
