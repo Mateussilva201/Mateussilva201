@@ -32,6 +32,8 @@ Desenvolvo sistemas de ponta a ponta focados em eficiência e escalabilidade:
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=Mateussilva201&theme=midnight&border_radius=48)
 
 
+## https://youtube.com/@tzwre?si=QtVXSUjcq5WKUKul
+
 
 
 
