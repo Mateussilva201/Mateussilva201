@@ -1,4 +1,4 @@
-![Aura walk](https://tenor.com/blD9Y.gif)
+![Aura walk](https://media1.tenor.com/m/T5PzTX6LraQAAAAd/putin-walk-swag-walk.gif)
 
 
 
