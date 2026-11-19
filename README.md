@@ -1,4 +1,3 @@
-![Aura walk](https://media1.tenor.com/m/T5PzTX6LraQAAAAd/putin-walk-swag-walk.gif)
 
 
 
@@ -7,9 +6,6 @@
 
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=Mateussilva201&theme=midnight&border_radius=48)
-
-<img src="https://media.tenor.com/sUySKh9Nd8gAAAAM/putin-reverse-walk-backwards.gif" width="600" alt="walk2">
-
 
 
 
